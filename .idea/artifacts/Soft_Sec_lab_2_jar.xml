@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Soft_Sec_lab_2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Soft_Sec_lab_2_jar</output-path>
+    <root id="archive" name="Soft_Sec_lab_2.jar">
+      <element id="module-output" name="Soft_Sec_lab_2" />
+    </root>
+  </artifact>
+</component>
